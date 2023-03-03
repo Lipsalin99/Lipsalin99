@@ -1,6 +1,5 @@
 <p align='center'>
-<img src="https://readme-typing-svg.herokuapp.com?lines=Hi+there+%F0%9F%91%8B+I'm+Lipsalin+Majhi+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;
-          I'm+Python+Developer" alt='Lipsalin Majhi'/>
+<img src="https://readme-typing-svg.herokuapp.com?lines=Hi+there+%F0%9F%91%8B+I'm+Lipsalin+Majhi+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;I'm+Python+Developer" alt='Lipsalin Majhi'/>
 </p>
 
 <p align="center">  
