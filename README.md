@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+<p align="center">  
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/lipsalin99/count.svg/" />
+</p>
+
 ![Lipsa's github stats](https://github-readme-stats.vercel.app/api?username=Lipsalin99&show_icons=true&hide=[%22issues%22])
 
 
